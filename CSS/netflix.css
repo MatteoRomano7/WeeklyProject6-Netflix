@@ -11,6 +11,7 @@ html {
 body {
   margin: 0;
   background-color: #212529;
+  margin-right: 2rem;
 }
 
 img:hover {
